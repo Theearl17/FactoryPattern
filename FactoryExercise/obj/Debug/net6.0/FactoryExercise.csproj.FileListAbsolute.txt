@@ -1,0 +1,15 @@
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\bin\Debug\net6.0\FactoryExercise.exe
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\bin\Debug\net6.0\FactoryExercise.deps.json
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\bin\Debug\net6.0\FactoryExercise.runtimeconfig.json
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\bin\Debug\net6.0\FactoryExercise.dll
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\bin\Debug\net6.0\FactoryExercise.pdb
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.csproj.AssemblyReference.cache
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.AssemblyInfoInputs.cache
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.AssemblyInfo.cs
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.csproj.CoreCompileInputs.cache
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.dll
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\refint\FactoryExercise.dll
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.pdb
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\FactoryExercise.genruntimeconfig.cache
+C:\Users\Earl Starks\Desktop\repos\FactoryExercise\FactoryExercise\obj\Debug\net6.0\ref\FactoryExercise.dll
