@@ -9,7 +9,8 @@ namespace FactoryExercise
 {
     internal class ThreeWheeler : IVehicle
     {
-    public ThreeWheeler() 
+        // Members //
+        public ThreeWheeler() 
         { 
         }
     public void Drive () 

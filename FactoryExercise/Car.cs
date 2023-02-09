@@ -8,10 +8,10 @@ namespace FactoryExercise
 {
     public class Car : IVehicle
     {
-        public Car()
-        {
-
-        }
+        public string Name { get; set; }
+        public int MilesPerHour { get; set; }
+        public int Doors{ get; set; }
+       
 
         public void Drive()
         {

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Earl Starks\\.nuget\\packages\\": {}
+    "C:\\Users\\earls\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Earl Starks\\Desktop\\repos\\FactoryExercise\\FactoryExercise\\FactoryExercise.csproj",
+      "projectUniqueName": "C:\\Users\\earls\\OneDrive\\Desktop\\Files from other pc\\repos\\FactoryExercise\\FactoryExercise\\FactoryExercise.csproj",
       "projectName": "FactoryExercise",
-      "projectPath": "C:\\Users\\Earl Starks\\Desktop\\repos\\FactoryExercise\\FactoryExercise\\FactoryExercise.csproj",
-      "packagesPath": "C:\\Users\\Earl Starks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Earl Starks\\Desktop\\repos\\FactoryExercise\\FactoryExercise\\obj\\",
+      "projectPath": "C:\\Users\\earls\\OneDrive\\Desktop\\Files from other pc\\repos\\FactoryExercise\\FactoryExercise\\FactoryExercise.csproj",
+      "packagesPath": "C:\\Users\\earls\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\earls\\OneDrive\\Desktop\\Files from other pc\\repos\\FactoryExercise\\FactoryExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Earl Starks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\earls\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
